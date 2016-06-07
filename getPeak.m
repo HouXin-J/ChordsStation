@@ -5,3 +5,5 @@ function peak = getPeak(freq)
   
   % Get max weight by frequency
   getPeak = max(freq);
+  
+end
