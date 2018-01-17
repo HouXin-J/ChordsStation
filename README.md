@@ -1,2 +1,2 @@
 # Chords-station
-Chords station is an app for android which can recognize the chords through your audio file.
+基于深度学习及加窗快速傅里叶变换的安卓平台乐曲和弦分析app
